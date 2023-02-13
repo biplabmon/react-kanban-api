@@ -1,0 +1,67 @@
+{
+    "todos": [
+        {
+            "new_task": "Task111",
+            "id": 15
+        },
+        {
+            "new_task": "Task3",
+            "id": 16
+        }
+    ],
+    "dragTask": [
+        {
+            "column": "Done",
+            "name": "Task1",
+            "id": 1
+        },
+        {
+            "column": "In Progress",
+            "name": "Task6",
+            "id": 6
+        },
+        {
+            "column": "Do it",
+            "name": "Task77",
+            "id": 7
+        },
+        {
+            "column": "In Progress",
+            "name": "Task5",
+            "id": 10
+        },
+        {
+            "column": "Done",
+            "name": "Lorem epsum",
+            "id": 11
+        },
+        {
+            "column": "Do it",
+            "name": "Buy milk",
+            "id": 12
+        },
+        {
+            "column": "Do it",
+            "name": "Task2",
+            "id": 13
+        }
+    ],
+    "users": [
+        {
+            "name": "BIPLAB MONDAL",
+            "email": "biplab79080@gmail.com",
+            "contact": "07908073701",
+            "password": "1234",
+            "profile_img": "",
+            "id": 2
+        },
+        {
+            "name": "test1",
+            "email": "test@mail.com",
+            "contact": "12345678",
+            "password": "1234",
+            "profile_img": "",
+            "id": 3
+        }
+    ]
+}
